@@ -1,0 +1,50 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "68",
+      "goal": "Fuel a 20km long run training session with optimal carbohydrate timing and recovery",
+      "resttrictions": "Vegetarian, no dairy"
+    },
+    "solution_criteria": [
+      "Meal plan covers all 3 meals plus pre/during/post-workout nutrition around the long run",
+      "Includes sufficient carbohydrates (6-10g per kg body weight) distributed strategically for endurance performance",
+      "All meals and snacks are vegetarian and dairy-free",
+      "Meal timing aligns with training session (e.g., light carbs 2-3 hours before, fast carbs during/after)"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a professional endurance athlete (marathon runner) requiring high carbohydrate intake and specific timing around long training sessions"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180",
+      "weight": "95",
+      "goal": "Maximize strength and power for weightlifting competition with two heavy training sessions",
+      "resttrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan includes minimum 2.2g protein per kg body weight (~210g total)",
+      "Plan accounts for two distinct heavy training windows with appropriate pre/post-workout nutrition",
+      "Total daily calories support strength athlete needs (~3500-3800 kcal for 95kg lifter)",
+      "Plan is presented in compact, single-day format with 4-5 meals/snacks"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a strength/power athlete (weightlifter) requiring high protein intake and caloric density with multiple heavy training windows throughout the day"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "72",
+      "goal": "Maintain performance and energy for moderate intensity soccer training and match",
+      "resttrictions": "Vegan"
+    },
+    "solution_criteria": [
+      "Meal plan covers full day with breakfast, lunch, dinner, and snacks",
+      "All foods are vegan-compliant with no animal products",
+      "Includes adequate protein and carbohydrates for soccer performance",
+      "Meals are practical and concise without excessive detail"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a sport-specific athlete with dietary restrictions (vegan soccer player) requiring balanced nutrition while accommodating ethical food choices and moderate intensity training schedule"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "output": "# One-Day Meal Plan for Vegetarian Athlete (20km Long Run)\n\n## Athlete Profile & Daily Targets\n- **Height:** 178 cm | **Weight:** 68 kg\n- **Daily Caloric Need:** ~2,800-3,000 kcal (accounting for 20km run)\n- **Protein:** 110-120g | **Carbs:** 380-420g | **Fat:** 85-95g\n\n---\n\n## MEAL SCHEDULE\n\n### **BREAKFAST** (7:00 AM) - Pre-Run Fuel\n*Time: 60-90 minutes before run*\n\n- Oatmeal (dry): 80g\n- Banana: 150g\n- Almond butter: 25g\n- Maple syrup: 15ml\n- Water: 250ml\n\n**Nutrition:** Calories: 485 | Protein: 12g | Carbs: 68g | Fat: 15g\n\n---\n\n### **DURING RUN** (8:30 AM - ~10:30 AM) - Hydration & Energy\n*For runs over 90 minutes*\n\n- Sports drink (homemade): 500ml\n  - Water: 500ml\n  - Brown sugar: 30g\n  - Salt: 0.5g\n  - Lemon juice: 15ml\n- Dates: 40g (4-5 pieces)\n\n**Nutrition:** Calories: 180 | Protein: 1g | Carbs: 45g | Fat: 0g\n\n---\n\n### **POST-RUN RECOVERY SNACK** (11:00 AM) - Within 30 mins of finish\n*Carb + Protein window*\n\n- Smoothie bowl:\n  - Plant-based milk (oat/soy): 250ml\n  - Pea protein powder: 25g\n  - Frozen berries: 100g\n  - Granola (vegan): 40g\n  - Coconut flakes: 15g\n  - Honey: 10g\n\n**Nutrition:** Calories: 380 | Protein: 25g | Carbs: 52g | Fat: 10g\n\n---\n\n### **LUNCH** (1:00 PM) - Replenishment Meal\n\n- Quinoa: 100g (cooked)\n- Black beans: 150g (cooked)\n- Roasted vegetables (sweet potato, broccoli, carrots): 250g\n- Tahini dressing: 20ml\n- Olive oil: 10ml\n- Lemon & herbs: to taste\n\n**Nutrition:** Calories: 620 | Protein: 22g | Carbs: 85g | Fat: 18g\n\n---\n\n### **AFTERNOON SNACK** (4:00 PM) - Energy Boost\n\n- Whole grain bread: 50g (1 slice)\n- Hummus: 40g\n- Carrot sticks: 100g\n- Sunflower seeds: 20g\n- Apple: 150g\n\n**Nutrition:** Calories: 340 | Protein: 10g | Carbs: 48g | Fat: 12g\n\n---\n\n### **DINNER** (7:00 PM) - Muscle Recovery & Repair\n\n- Lentil pasta: 100g (dry)\n- Marinara sauce (tomato-based): 150ml\n- Tofu (firm, pan-fried): 150g\n- Saut\u00e9ed spinach & garlic: 150g\n- Olive oil (for cooking): 10ml\n- Nutritional yeast: 10g (cheesy flavor, B12 source)\n- Whole wheat roll: 50g\n\n**Nutrition:** Calories: 550 | Protein: 32g | Carbs: 68g | Fat: 12g\n\n---\n\n### **EVENING SNACK** (9:30 PM) - Optional Light Recovery\n\n- Chia pudding:\n  - Soy milk: 200ml\n  - Chia seeds: 20g\n  - Vanilla: 2ml\n  - Agave: 10g\n\n**Nutrition:** Calories: 190 | Protein: 6g |",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178",
+        "weight": "68",
+        "goal": "Fuel a 20km long run training session with optimal carbohydrate timing and recovery",
+        "resttrictions": "Vegetarian, no dairy"
+      },
+      "solution_criteria": [
+        "Meal plan covers all 3 meals plus pre/during/post-workout nutrition around the long run",
+        "Includes sufficient carbohydrates (6-10g per kg body weight) distributed strategically for endurance performance",
+        "All meals and snacks are vegetarian and dairy-free",
+        "Meal timing aligns with training session (e.g., light carbs 2-3 hours before, fast carbs during/after)"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Testing with a professional endurance athlete (marathon runner) requiring high carbohydrate intake and specific timing around long training sessions"
+    },
+    "score": 4,
+    "reasoning": "The solution meets most mandatory requirements: it includes exact foods, portions, and timing for all meals; covers pre/during/post-workout nutrition; maintains vegetarian/dairy-free restrictions; and demonstrates good carb timing strategy. However, it fails to provide a complete daily caloric total and complete macronutrient breakdown due to the cut-off evening snack and missing summary. The carbohydrate content also appears insufficient for an endurance athlete (5.4g/kg vs. recommended 6-10g/kg). While the plan is well-structured and practical, the incomplete nutritional summary and suboptimal carb targets represent violations of mandatory requirements."
+  },
+  {
+    "output": "# One-Day Meal Plan for Weightlifting Athlete\n**Athlete Profile:** 180cm, 95kg, Strength/Power Focus\n\n---\n\n## Daily Caloric & Macronutrient Target\n\n| Metric | Amount |\n|--------|--------|\n| **Daily Calories** | 3,400-3,600 kcal |\n| **Protein** | 190-210g (22-23%) |\n| **Carbohydrates** | 425-450g (50%) |\n| **Fat** | 95-110g (25-27%) |\n\n*Based on ~36-38 kcal/kg bodyweight for heavy training days*\n\n---\n\n## Meal Schedule\n\n### **BREAKFAST** (7:00 AM) | ~850 kcal\n- Whole grain oats: 80g\n- Whole eggs: 3 large (180g)\n- Egg whites: 4 large (120g)\n- Banana: 150g\n- Honey: 20g\n- Whole milk: 200ml\n\n**Macros:** 35g protein | 105g carbs | 18g fat\n\n---\n\n### **PRE-WORKOUT SNACK** (10:30 AM) | ~450 kcal\n*Consumed 90 minutes before first training session*\n- White rice: 150g (cooked)\n- Chicken breast: 120g\n- Apple: 200g\n- Salt: to taste\n\n**Macros:** 32g protein | 68g carbs | 3g fat\n\n---\n\n### **LUNCH** (1:00 PM - Post-Session 1) | ~900 kcal\n- Ground beef (lean 90/10): 200g\n- Jasmine rice: 200g (cooked)\n- Sweet potato: 150g\n- Olive oil: 10ml\n- Mixed vegetables (broccoli, carrots): 150g\n\n**Macros:** 48g protein | 115g carbs | 22g fat\n\n---\n\n### **PRE-WORKOUT SNACK 2** (3:30 PM) | ~500 kcal\n*Consumed 60 minutes before second training session*\n- Pasta (white): 100g (cooked)\n- Canned tuna in water: 150g (drained)\n- Orange juice: 250ml\n- Graham crackers: 40g\n\n**Macros:** 38g protein | 75g carbs | 4g fat\n\n---\n\n### **DINNER** (7:00 PM - Post-Session 2) | ~650 kcal\n- Salmon fillet: 180g\n- Quinoa: 80g (cooked)\n- Roasted potatoes: 200g\n- Spinach (saut\u00e9ed in oil): 150g\n- Olive oil: 8ml\n\n**Macros:** 42g protein | 62g carbs | 18g fat\n\n---\n\n### **EVENING SNACK** (9:30 PM) | ~200 kcal\n- Greek yogurt (0% fat): 200g\n- Mixed berries (frozen): 100g\n- Granola: 30g\n\n**Macros:** 25g protein | 30g carbs | 1g fat\n\n---\n\n## Daily Totals\n| Nutrient | Amount |\n|----------|--------|\n| **Total Calories** | 3,550 kcal |\n| **Protein** | 220g (25%) |\n| **Carbohydrates** | 455g (51%) |\n| **Fat** | 66g (17%) |\n\n---\n\n## Key Strategy Notes\n\n\u2705 **Timing:** Carbs and protein distributed around both training sessions for optimal energy and recovery\n\n\u2705 **Quality:** Whole foods with some refined carbs (white rice/pasta) post-workout for faster glycogen replenishment\n\n\u2705 **Cost-Effective:** Ground beef, chicken, rice, and oats are budget-friendly staples\n\n\u2705 **Hydration:** Drink 3-4L of water throughout the day + electrolytes during sessions\n\n---\n\n## Hydration Plan\n- **Morning:** 500ml water\n- **Pre-Session 1:** 500ml",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "180",
+        "weight": "95",
+        "goal": "Maximize strength and power for weightlifting competition with two heavy training sessions",
+        "resttrictions": "None"
+      },
+      "solution_criteria": [
+        "Meal plan includes minimum 2.2g protein per kg body weight (~210g total)",
+        "Plan accounts for two distinct heavy training windows with appropriate pre/post-workout nutrition",
+        "Total daily calories support strength athlete needs (~3500-3800 kcal for 95kg lifter)",
+        "Plan is presented in compact, single-day format with 4-5 meals/snacks"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Testing with a strength/power athlete (weightlifter) requiring high protein intake and caloric density with multiple heavy training windows throughout the day"
+    },
+    "score": 9,
+    "reasoning": "The solution fully satisfies all mandatory requirements with exact foods, portions, timings, daily caloric total, and macronutrient breakdowns clearly presented. It meets all secondary criteria: protein exceeds 2.2g/kg threshold (220g vs 210g minimum), accounts for two training windows with strategically timed pre/post-workout nutrition, caloric intake is within acceptable range for a 95kg strength athlete, and the format is compact with 6 meals/snacks. Minor issues include slightly low fat intake relative to stated targets and an incomplete hydration section, but these do not undermine the core quality or functionality of the meal plan."
+  },
+  {
+    "output": "# One-Day Vegan Meal Plan for Soccer Athlete\n\n**Athlete Profile:** 178cm, 72kg | Moderate intensity training + match | Vegan\n\n---\n\n## Daily Nutrition Targets\n- **Calories:** 2,800 kcal\n- **Protein:** 112g (16% of calories)\n- **Carbohydrates:** 392g (56% of calories)\n- **Fat:** 84g (27% of calories)\n\n---\n\n## MEAL PLAN\n\n### **BREAKFAST** | 7:00 AM\n*Pre-training fuel*\n\n- Oatmeal: 80g dry\n- Banana: 150g\n- Almond butter: 20g\n- Plant-based milk: 240ml\n- Chia seeds: 10g\n\n**Nutrition:** 520 cal | 16g protein | 72g carbs | 16g fat\n\n---\n\n### **SNACK 1** | 10:30 AM\n*Mid-morning energy boost*\n\n- Hummus: 60g\n- Whole wheat pita bread: 80g\n- Apple: 180g\n- Cashews: 20g\n\n**Nutrition:** 420 cal | 12g protein | 48g carbs | 16g fat\n\n---\n\n### **LUNCH** | 1:00 PM\n*Post-training recovery*\n\n- Chickpea & vegetable curry:\n  - Canned chickpeas: 200g\n  - Sweet potato: 150g\n  - Broccoli: 100g\n  - Coconut milk: 100ml\n  - Olive oil: 10ml\n- Brown rice: 100g cooked\n- Spinach: 50g\n\n**Nutrition:** 680 cal | 20g protein | 96g carbs | 18g fat\n\n---\n\n### **SNACK 2** | 4:00 PM\n*Pre-match preparation (1-2 hours before)*\n\n- Rice cakes: 40g\n- Peanut butter: 25g\n- Dates: 40g\n- Water: 500ml\n\n**Nutrition:** 380 cal | 12g protein | 48g carbs | 16g fat\n\n---\n\n### **DINNER** | 7:30 PM\n*Post-match recovery*\n\n- Lentil bolognese:\n  - Green lentils: 150g cooked\n  - Whole wheat pasta: 100g dry\n  - Tomato sauce: 150g\n  - Garlic: 5g\n  - Olive oil: 15ml\n- Mixed green salad: 100g\n- Tahini dressing: 15g\n\n**Nutrition:** 620 cal | 28g protein | 80g carbs | 18g fat\n\n---\n\n### **EVENING SNACK** | 9:30 PM\n*Recovery support*\n\n- Soy yogurt: 200g\n- Granola (vegan): 40g\n- Blueberries: 80g\n\n**Nutrition:** 180 cal | 8g protein | 28g carbs | 4g fat\n\n---\n\n## **HYDRATION GUIDE**\n- Morning: 500ml water + electrolytes\n- Pre-training: 250ml\n- During training: 150-200ml every 15 mins\n- Post-training: 500-750ml\n- Throughout day: 2-3L total\n\n---\n\n## **KEY NUTRITIONAL NOTES**\n\n\u2705 **Protein Sources:** Chickpeas, lentils, soy yogurt, nuts, seeds, pita bread\n\u2705 **Carb-heavy timing:** Before and after training/match\n\u2705 **Budget-friendly:** Uses dried/canned legumes, seasonal produce\n\u2705 **Balanced:** Adequate carbs for endurance, protein for recovery, healthy fats\n\u2705 **Timing:** Meals spaced 3-4 hours apart with snacks between\n\n---\n\n## **SUBSTITUTION OPTIONS** (Budget-friendly alternatives)\n- Almond butter \u2192 Peanut butter\n- Cashews \u2192 Sunflower seeds\n- Coconut milk \u2192 Tomato paste (thicker sauce)\n- Dates \u2192 Raisins or banana\n\n**",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178",
+        "weight": "72",
+        "goal": "Maintain performance and energy for moderate intensity soccer training and match",
+        "resttrictions": "Vegan"
+      },
+      "solution_criteria": [
+        "Meal plan covers full day with breakfast, lunch, dinner, and snacks",
+        "All foods are vegan-compliant with no animal products",
+        "Includes adequate protein and carbohydrates for soccer performance",
+        "Meals are practical and concise without excessive detail"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Testing with a sport-specific athlete with dietary restrictions (vegan soccer player) requiring balanced nutrition while accommodating ethical food choices and moderate intensity training schedule"
+    },
+    "score": 9,
+    "reasoning": "The solution fully satisfies all three mandatory requirements with clear daily totals, detailed macronutrient breakdown, and complete meal specifications with portions and timing. All secondary criteria are met: full day coverage (breakfast, lunch, dinner, 3 snacks), strict vegan compliance, adequate protein and carbs for soccer, and practical conciseness. The meal plan is well-timed around training/match activity. Minor issues with caloric estimation accuracy and hydration specificity do not violate core requirements but represent areas for refinement. The solution is comprehensive, actionable, and directly addresses the athlete's needs."
+  }
+]
